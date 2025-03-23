@@ -1,6 +1,6 @@
-AWS Packer & Terraform Project
+# AWS Packer & Terraform Project
 
-Project Overview
+## Project Overview
 
 This project automates the provisioning of a secure and scalable AWS infrastructure using Packer and Terraform. It fulfills the following goals:
 
