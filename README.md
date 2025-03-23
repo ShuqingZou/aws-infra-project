@@ -1,6 +1,9 @@
 AWS Packer & Terraform Project
+
 Project Overview
+
 This project automates the provisioning of a secure and scalable AWS infrastructure using Packer and Terraform. It fulfills the following goals:
+
 Part A: Custom AMI with Packer
 1. Amazon Linux 2
 2. Installs Docker
